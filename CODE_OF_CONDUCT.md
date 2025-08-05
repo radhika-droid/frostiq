@@ -1,77 +1,305 @@
-# Contributor Covenant Code of Conduct - GSSoC 2025
+# Code of Conduct - GSSoC 2025
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+We, as members, contributors, mentors, and leaders of the GirlScript Summer of Code (GSSoC) community, pledge to create and maintain a harassment-free, inclusive, and welcoming environment for everyone.
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+We are committed to fostering participation regardless of:
+- Age, body size, visible or invisible disability
+- Ethnicity, race, caste, color, nationality
+- Gender identity and expression, sex characteristics, sexual orientation
+- Level of experience, education, socio-economic status
+- Personal appearance, religion, or political views
+
+We pledge to act with empathy, respect, and professionalism in all our interactions, prioritizing the collective growth and well-being of our community.
 
 ## Our Standards
 
-Examples of behavior that contributes to a positive environment for our community include:
+### Expected Behavior
 
-- Demonstrating empathy and kindness toward other people  
-- Being respectful of differing opinions, viewpoints, and experiences  
-- Giving and gracefully accepting constructive feedback  
-- Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience  
-- Focusing on what is best not just for us as individuals, but for the overall community  
+We encourage and expect all community members to:
 
-Examples of unacceptable behavior include:
+- **Practice empathy and kindness** in all interactions
+- **Respect diverse perspectives** and welcome constructive discussions
+- **Provide and accept feedback gracefully**, focusing on improvement rather than criticism
+- **Take responsibility for mistakes**, apologize when necessary, and learn from experiences
+- **Support community goals** over individual interests
+- **Maintain professionalism** in all communications and contributions
+- **Help create an inclusive environment** where everyone feels valued and heard
+- **Give credit** where it's due and acknowledge others' contributions
 
-- The use of sexualized language or imagery, and sexual attention or advances of any kind  
-- Trolling, insulting or derogatory comments, and personal or political attacks  
-- Public or private harassment  
-- Publishing others’ private information, such as a physical or email address, without their explicit permission  
-- Other conduct which could reasonably be considered inappropriate in a professional setting  
+### Unacceptable Behavior
 
-## Enforcement Responsibilities
+The following behaviors are strictly prohibited:
 
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+- **Harassment of any kind**, including but not limited to:
+  - Sexualized language, imagery, or unwelcome sexual attention
+  - Trolling, insulting comments, or personal attacks
+  - Public or private harassment or intimidation
+  - Discriminatory jokes or language
+- **Doxxing** or publishing private information without explicit consent
+- **Spam or off-topic content** that disrupts community discussions
+- **Plagiarism** or claiming others' work as your own
+- **Deliberate intimidation** or creating hostile environments
+- **Sustained disruption** of events, forums, or other community activities
+- **Any conduct** that could reasonably be considered inappropriate in a professional or educational setting
 
-Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+## Scope and Application
 
-## Scope
+This Code of Conduct applies to:
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces.  
-Examples include: using an official email address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+- **All GSSoC community spaces**, including:
+  - GitHub repositories and discussions
+  - Discord servers and chat platforms
+  - Social media channels and groups
+  - Virtual and in-person events
+  - Email communications and forums
 
-## Enforcement
+- **Official representation** of GSSoC in public spaces, including:
+  - Using official email addresses or social media accounts
+  - Speaking at conferences or events as a GSSoC representative
+  - Representing GSSoC in interviews or media interactions
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [indra7777](https://github.com/indra7777).
-All complaints will be reviewed and investigated promptly and fairly.
+## Reporting and Enforcement
 
-All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+### How to Report
+
+If you experience or witness behavior that violates this Code of Conduct:
+
+1. **Immediate Safety**: If you feel unsafe, contact local emergency services
+2. **Report to Leadership**: Contact community leaders at **[indra7777]** or through official GSSoC channels
+
+### What to Include
+
+When reporting, please provide:
+- Description of the incident(s)
+- Date, time, and location (if applicable)
+- Names of individuals involved
+- Any supporting evidence (screenshots, links, etc.)
+- Impact on you or the community
+
+### Response Process
+
+All reports will be:
+- **Acknowledged** within 48 hours
+- **Investigated** promptly and fairly
+- **Handled confidentially** with respect for all parties' privacy
+- **Documented** appropriately while protecting reporter anonymity
 
 ## Enforcement Guidelines
 
-Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+Community leaders will apply these progressive consequences based on the severity and frequency of violations:
 
-### 1. Correction  
-**Community Impact:** Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.  
-**Consequence:** A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
+### 1. Correction
+**Trigger**: Minor inappropriate behavior or language
+**Response**: 
+- Private written warning with explanation
+- Request for public apology if appropriate
+- Educational resources provided
 
-### 2. Warning  
-**Community Impact:** A violation through a single incident or series of actions.  
-**Consequence:** A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
+### 2. Warning
+**Trigger**: Single incident or series of minor violations
+**Response**:
+- Formal warning with clear expectations
+- Temporary restriction from interacting with involved parties
+- Specified time period for behavior modification
+- Monitoring of future interactions
 
-### 3. Temporary Ban  
-**Community Impact:** A serious violation of community standards, including sustained inappropriate behavior.  
-**Consequence:** A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
+### 3. Temporary Suspension
+**Trigger**: Serious violation or repeated minor violations
+**Response**:
+- Temporary ban from community spaces (1 week to 3 months)
+- No public or private interaction with community members
+- No participation in GSSoC activities during suspension period
+- Review process before reinstatement
 
-### 4. Permanent Ban  
-**Community Impact:** Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.  
-**Consequence:** A permanent ban from any sort of public interaction within the community.
+### 4. Permanent Ban
+**Trigger**: Pattern of violations, severe misconduct, or harassment
+**Response**:
+- Permanent exclusion from all GSSoC activities and spaces
+- Prohibition from future participation in GSSoC programs
+- Public notification if necessary for community safety
 
-## Attribution
+## Appeals Process
 
-This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at:  
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct/](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
+Individuals who believe they have been unfairly sanctioned may:
+1. Submit a written appeal within 30 days of the decision
+2. Provide additional context or evidence
+3. Request review by a different set of community leaders
+4. Receive a response within 14 days of appeal submission
 
-Community Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.
+## Support and Resources
 
-## Conclusion
+### For Community Members
+- **Mental Health**: If incidents affect your well-being, consider reaching out to local mental health resources
+- **Technical Support**: Contact mentors or community leaders for project-related guidance
+- **Community Support**: Connect with other participants through official channels
 
-By committing to this Code of Conduct, we build a welcoming, inclusive, and respectful space for everyone involved in GSSoC.  
-Let's ensure our community reflects the values we stand for — support, growth, and empowerment through open source.
+### For Leaders and Mentors
+- Regular training on inclusive leadership and conflict resolution
+- Clear escalation procedures for serious incidents
+- Support network for handling difficult situations
 
-**Together, let’s make GSSoC a safe and collaborative experience for all.**
+## Commitment to Improvement
+
+We recognize that this Code of Conduct is a living document. We commit to:
+- Regular review and updates based on community feedback
+- Transparent communication about enforcement actions (while respecting privacy)
+- Continuous education about inclusive practices
+- Learning from incidents to prevent future occurrences
+
+
+## Contact Information
+
+- **Primary Contact**: indra7777
+---
+
+## Positive Recognition Program
+
+We believe in celebrating good behavior and contributions:
+
+### Community Champions
+- **Monthly Recognition**: Outstanding contributors who exemplify our values
+- **Peer Nominations**: Community members can nominate others for positive behavior
+- **Mentor Appreciation**: Special recognition for mentors who go above and beyond
+- **Inclusive Leadership Awards**: Recognizing those who actively promote inclusivity
+
+### Ways to Contribute Positively
+- Welcome new members and help them get started
+- Share knowledge through tutorials, documentation, or mentoring
+- Provide constructive code reviews and feedback
+- Participate in community discussions respectfully
+- Help resolve conflicts peacefully
+- Contribute to accessibility and inclusion initiatives
+
+## Accessibility and Inclusion
+
+### Our Commitment to Accessibility
+- **Digital Accessibility**: All platforms and resources should be accessible to users with disabilities
+- **Communication**: Provide multiple formats for important information
+- **Events**: Ensure virtual and physical events are accessible to all participants
+- **Language**: Use clear, simple language and avoid technical jargon when possible
+
+### Inclusive Practices
+- **Time Zones**: Schedule meetings considering global participation
+- **Cultural Sensitivity**: Respect different cultural backgrounds and holidays
+- **Economic Barriers**: Provide free resources and avoid requiring paid tools
+- **Language Support**: Offer documentation and support in multiple languages when possible
+
+## Data Privacy and Security
+
+### Personal Information Protection
+- **Data Collection**: We collect only necessary information for program participation
+- **Data Usage**: Personal data is used solely for GSSoC program purposes
+- **Data Sharing**: We do not share personal information with third parties without consent
+- **Data Retention**: Personal data is retained only as long as necessary
+
+### Security Measures
+- Secure communication channels for sensitive discussions
+- Regular security audits of platforms and tools
+- Incident response procedures for data breaches
+- Training for community leaders on privacy best practices
+
+## Intellectual Property and Licensing
+
+### Code Contributions
+- **Licensing**: All contributions must comply with project licenses
+- **Original Work**: Contributors must ensure their code is original or properly attributed
+- **Copyright**: Respect copyright laws and open-source licenses
+- **Attribution**: Give proper credit to original authors and contributors
+
+### Content Guidelines
+- **Documentation**: Technical writing should be clear, accurate, and helpful
+- **Media Usage**: Only use images, videos, or other media with proper permissions
+- **Plagiarism Prevention**: Always cite sources and give credit where due
+
+## Environmental and Social Responsibility
+
+### Sustainable Practices
+- **Digital Minimalism**: Encourage efficient, sustainable coding practices
+- **Resource Optimization**: Promote energy-efficient software development
+- **Awareness**: Share knowledge about sustainable technology practices
+
+### Social Impact
+- **Community Benefit**: Prioritize projects that have positive social impact
+- **Ethical Development**: Consider the broader implications of technology we create
+- **Global Perspective**: Acknowledge and address global technology inequalities
+
+## Crisis Management and Emergency Procedures
+
+### Emergency Situations
+- **Immediate Threats**: Clear procedures for handling threats to safety
+- **Mental Health Crises**: Resources and procedures for mental health emergencies
+- **Technical Emergencies**: Rapid response for platform or security issues
+- **Communication Plan**: How we communicate during crisis situations
+
+### Business Continuity
+- **Platform Backups**: Regular backups of important community data
+- **Alternative Channels**: Backup communication methods if primary platforms fail
+- **Leadership Succession**: Clear procedures if primary leaders become unavailable
+
+## Educational and Professional Development
+
+### Learning Opportunities
+- **Skill Development**: Regular workshops on technical and soft skills
+- **Career Guidance**: Mentorship for career development in tech
+- **Industry Insights**: Sessions with industry professionals and leaders
+- **Certification**: Recognition of skills gained through GSSoC participation
+
+### Knowledge Sharing
+- **Documentation**: Comprehensive guides and tutorials
+- **Best Practices**: Sharing of industry best practices and standards
+- **Innovation**: Encouraging creative and innovative approaches to problems
+
+## Community Governance
+
+### Decision-Making Process
+- **Transparency**: Open communication about community decisions
+- **Community Input**: Regular surveys and feedback collection
+- **Democratic Processes**: Community voting on important matters
+- **Advisory Board**: Diverse group of advisors representing different perspectives
+
+### Leadership Structure
+- **Diverse Leadership**: Ensuring diverse representation in leadership roles
+- **Term Limits**: Regular rotation of leadership positions
+- **Accountability**: Regular performance reviews and feedback for leaders
+- **Succession Planning**: Clear procedures for leadership transitions
+
+
+### Technical Requirements
+- **Platform Reliability**: Maintaining high uptime for community platforms
+- **User Experience**: Ensuring platforms are intuitive and user-friendly
+- **Mobile Compatibility**: All platforms should work well on mobile devices
+- **Performance Standards**: Fast loading times and responsive interfaces
+
+### Innovation and Future Planning
+- **Technology Updates**: Regular updates to keep platforms current
+- **Emerging Technologies**: Exploring new tools and platforms for community benefit
+- **Scalability**: Planning for community growth and expansion
+- **Feedback Integration**: Regular incorporation of user feedback into platform improvements
+
+## Quality Assurance and Standards
+
+### Code Quality Standards
+- **Code Reviews**: Mandatory peer review for all contributions
+- **Testing Requirements**: Comprehensive testing standards for all projects
+- **Documentation Standards**: Clear requirements for code documentation
+- **Security Standards**: Security best practices for all contributions
+
+### Project Management
+- **Milestone Tracking**: Clear project milestones and progress tracking
+- **Communication Standards**: Regular updates and progress reports
+- **Quality Metrics**: Measurable standards for project success
+- **Continuous Improvement**: Regular retrospectives and process improvements
+
+## Our Commitment
+
+By participating in GSSoC 2025, you agree to uphold these comprehensive standards and contribute to a community where everyone can learn, grow, and thrive. We're committed to creating not just better software, but a better, more inclusive, sustainable, and responsible tech community.
+
+Together, we're building the future of open source—one that's accessible, ethical, and empowering for all.
+
+**Let's make GSSoC 2025 an exceptional experience for everyone involved.**
+
+---
+
+*Last updated: 5 august 2025 
